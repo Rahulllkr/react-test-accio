@@ -28,6 +28,9 @@ const App = () => {
       {/* <Ques8 like = {like}  updateLike = {updateLike}/> */}
       {/* <Ques9 name = {"Alice"} email = {"alice@example.com"} bio = {"Software Developer"} /> */}
       {/* <Ques10  itemName = {"Coffee"} price = {4.99}/> */}
+
+
+      //Hello iam commented
     </div>
   )
 }
